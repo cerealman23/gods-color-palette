@@ -3,8 +3,8 @@
 <br>
 https://templeos.org
 <br><br>
-# 16colors
-Temple OS\' 16 beautiful colors.     
+# god's color palette
+16 colors made by god.
 
 ![palette](https://raw.githubusercontent.com/tristanmvh/16colors/master/palette.png)
 
