@@ -1,11 +1,10 @@
 <b>RIP TERRY A. DAVIS</b> <br>
 1969-2018 
+<br><br>
+"This is 16 color, pleasant to create. It would be unpleasant to draw with 16,777,216 colors" - Terry
 <br>
 https://templeos.org
 <br><br>
-# god's color palette
-16 colors made by god.
-
 ![palette](https://raw.githubusercontent.com/tristanmvh/16colors/master/palette.png)
 
 
