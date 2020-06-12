@@ -3,7 +3,8 @@
 <br><br>
 "This is 16 color, pleasant to create. It would be unpleasant to draw with 16,777,216 colors" - Terry
 <br>
-https://templeos.org
+https://knowyourmeme.com/photos/1443314-terry-davis-templeos
+<br>
 <br><br>
 ![palette](https://raw.githubusercontent.com/tristanmvh/16colors/master/palette.png)
 
