@@ -1,10 +1,12 @@
 <b>RIP TERRY A. DAVIS</b> <br>
-1969-2018
+1969-2018 
+<br>
+https://templeos.org
 <br><br>
 # 16colors
 Temple OS\' 16 beautiful colors.     
 
-## List of colors:
+<b>List of colors:</b><br>
 ![#f03c15](https://via.placeholder.com/15/000000/000000?text=+) Black
 <br>
 <b>RBG:</b> 0, 0, 0
