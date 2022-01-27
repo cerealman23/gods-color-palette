@@ -20,7 +20,7 @@ https://knowyourmeme.com/photos/1443314-terry-davis-templeos
 <br>
 <b>RBG: 0, 0, 168</b>
 <br>
-<b>HEX:</b> #00a800
+<b>HEX:</b> #0000A8
 
 
 ![Green](https://via.placeholder.com/15/00a800/000000?text=+) Green
